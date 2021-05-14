@@ -13,7 +13,7 @@
     <link href="/css/app.css" rel="stylesheet" >
 
 
-    <title>Mi sitio</title>
+    <title>Curso de cero a experto</title>
 </head>
 <body>
     <header>
